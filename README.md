@@ -3,6 +3,8 @@ Luego abrir git bash en dicha carpeta.
 Ejecutar comando: git clone https://github.com/CristianoOk/Sistema-de-asistencia.git
 
 
+En el backend, tenemos una carpeta de controladores (controllers) que manejan la lógica de negocio, una carpeta de rutas (routes) que define las URL y los endpoints, una carpeta de modelos (models) que define las estructuras de datos de MongoDB, y un archivo de conexión a la base de datos. En el frontend, tienes una estructura con un archivo principal de ruteo, y diferentes páginas (como la HomePage) que representan las distintas vistas de la aplicación. De esta forma, el proyecto está organizado y permite que el profesor, con una clave especial, se registre y luego cree las cuentas para los alumnos, quienes pueden marcar su asistencia en los horarios establecidos.
+
 Proyecto en ejecución:
 <img width="1292" height="725" alt="image" src="https://github.com/user-attachments/assets/055aed51-b41a-4bd4-aedc-31e4da9efeba" />
 <img width="1293" height="729" alt="image" src="https://github.com/user-attachments/assets/e88987c6-026c-4e1a-a84d-88fe8e222100" />
